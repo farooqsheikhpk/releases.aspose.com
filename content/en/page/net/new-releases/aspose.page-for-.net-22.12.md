@@ -15,7 +15,7 @@ file_size: "File Size: 36.04MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
-tags: "test10"
+tags: "test11"
 release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/"
 weight: 116
 
@@ -40,14 +40,12 @@ weight: 116
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Release Notes</h4>
-<div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/</a></div>
-
+      <h4>Release Notes</h4><div><a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Description</h4>
-<div class="HTMLDescription">It contains Aspose.Page for .NET 22.12 release.</div>
-
+      <h4>Description</h4><div class="HTMLDescription">It contains Aspose.Page for .NET 22.12 release.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
+
+
