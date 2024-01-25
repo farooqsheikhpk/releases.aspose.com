@@ -15,7 +15,7 @@ file_size: "File Size: 36.04MB"
 parent_path: "page/net"
 section_parent_path: "page/net"
 
-tags: "farooq"
+tags: "farooq5"
 release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-11-release-notes/"
 weight: 114
 
