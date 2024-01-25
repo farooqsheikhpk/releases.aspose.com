@@ -1,3 +1,22 @@
+---
+title: "İndirmeler --- Yeni sürümler -pse.page-.net-242.12" 
+description: "#VALUE!" 
+keywords: ""
+page_type: single_release_page
+folder_link: "/page/net/new-releases/aspose.page-for-.net-22.12/"
+folder_name: "Aspose.net 22.12 için sayfa" 
+download_link: "/page/net/new-releases/aspose.page-for-.net-22.12/6fb799a68face2e152f788eb30c23556-8-8350"
+download_text: "İndirmek" 
+intro_text: ".NET 22.12 sürümü için aspose.page içerir." 
+image_link: "/resources/img/msi-icon.png"
+download_count: " 30/12/2022 İndirmeks: 19  Views: 1 "
+file_size: "File Size: 36.04MB"
+parent_path: "page/net"
+section_parent_path: "page/net"
+tags: "test10"
+release_notes_url: "https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/"
+weight: 116
+---
 {{< Releases/ReleasesWapper >}}
 {{< Releases/ReleasesHeading H2txt="Aspose.net 22.12 için sayfa" imagelink="/resources/img/msi-icon.png">}}
 {{< Releases/ReleasesButtons >}}
@@ -8,7 +27,7 @@
 {{< Releases/ReleasesHeading h4txt="Dosya Ayrıntıları">}}
 {{< Releases/ReleasesDetailsUl >}}
 {{< Common/li >}} İndirmeks: {{< /Common/li >}}
-{{< Common/li class="downloadcount" id="dwn-update-6fb799a68face2e152f788eb30c23556-8-8350" >}} 1 {{< /Common/li >}}
+{{< Common/li class="downloadcount" id="dwn-update-6fb799a68face2e152f788eb30c23556-8-8350" >}} 19 {{< /Common/li >}}
 {{< Common/li >}} Dosya boyutu: {{< /Common/li >}}
 {{< Common/li id="size-update-6fb799a68face2e152f788eb30c23556-8-8350" >}} 36.04MB {{< /Common/li >}}
 {{< Common/li >}} Ekleme Tarihi: {{< /Common/li >}}
@@ -16,7 +35,7 @@
 {{< /Releases/ReleasesDetailsUl >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Sürüm notları</h4>
-<a href='https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-12-release-notes/'>https://releases.aspose.com/page/net/release-notes/2022/aspose-page-for-net-22-12-release-notes/</a>
+<a href='https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/'>https://docs.aspose.com/page/net/aspose-page-for-net-22-12-release-notes/</a>
 {{< /Releases/ReleasesFileFeatures >}}
 {{< Releases/ReleasesFileFeatures >}}
 <h4>Tanım</h4>
